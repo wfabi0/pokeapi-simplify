@@ -43,5 +43,4 @@ Exemplo do output JSON:
     "stats": [45, 49, 49, 65, 65, 45],
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
   },
-  ...
 ]
